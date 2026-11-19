@@ -1,4 +1,4 @@
-![QuantumZeno-Lab cover](assets/cover.png)
+![QuantumZeno-Lab cover](QuantumZeno-Lab%20cover.png)
 
 # QuantumZeno-Lab ⏱️⚛️
 
